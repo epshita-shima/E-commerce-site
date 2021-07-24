@@ -1,0 +1,449 @@
+@media screen and (max-width: 992px){
+    .top-nav .btn .lang-btn{
+      margin-left: 14rem !important;
+    }  
+  
+    .menu .item ul li{
+      margin-left: 1.5rem !important;
+    }
+    .menu .item ul li input{
+      width: 14rem !important;
+    }
+   .product-category .card-img img{
+      width: 330px;
+    }
+    .product-category .card1 .card-img{
+        width: 300px !important;
+        height: 400px !important;
+    }
+    .product-category .card-img img{
+        width: 300px !important;
+    }
+    .product-category .card2 .card-img{
+        width: 300px !important;
+        height: 400px !important;
+    }
+    .product-category .card3 .card-img{
+        width: 300px !important;
+        height: 400px !important;
+    }
+    .product-category .card4 .card-img{
+        width: 300px !important;
+        height: 400px !important;
+    }
+    .product-category .card5 .card-img{
+        width: 300px !important;
+        height: 400px !important;
+    }
+    .product-name-btn{
+        left: 12% !important;
+    }
+    .product-category .card1 .card-img .card-btn{
+        margin-left: 1rem !important;
+    }
+    .product-category .card2 .card-img .card-btn{
+        margin-left: 1rem !important;
+    }
+    .product-category .card4 .card-img .card-btn{
+        padding: 0.2rem 1.8rem !important;
+    }
+    .product-category .card5 .card-img .card-btn{
+        padding: 0.1rem 1.7rem !important;
+    }
+    .information .card-warpper{
+        padding-left: 2rem!important;
+        padding-right: 2rem !important;
+    }
+    .payment-share .payment-follow{
+        padding-right: 1rem !important;
+        padding-left: 2rem !important;
+    }
+}
+
+@media screen and (max-width: 786px){
+    .top-nav{
+         display: none;
+    }
+    .top-nav .btn{
+         padding-right: 0.5rem !important;
+    }
+    .top-nav .my-menu ul li{
+        margin-left: 0rem !important ;
+    }
+    .top-nav .my-menu ul li a{
+        font-size: 0.7rem !important;
+    }
+    .top-nav .btn .lang-btn{
+        padding: 0.5rem 0.4rem !important;   
+    } 
+    .top-nav .btn .currency-btn{
+        padding: 0.5rem 0.4rem !important;
+    }
+    .top-nav .btn .currency-btn{
+        margin-left: 0rem !important;
+    }
+    .logo{
+        padding-left: 1rem !important;
+    }
+    .logo .logo-property  .account-cart{
+        margin-left: 0rem !important;
+    }
+    .menu .item ul li{
+        margin-left: 1rem !important;
+    }
+    .menu .item ul li input{
+        width: 7.4rem !important;
+    }
+    .site-info{
+        grid-gap: 1rem !important;
+        margin-left: 0.5rem !important;
+        margin-right: 0.5rem !important;   
+    }
+    .site .info .text-box{
+        padding: 0.4rem !important;
+    }
+    .product-category{
+        grid-template-columns: repeat(1,1fr) !important; 
+    }
+    .product-category{
+        margin-bottom: 3rem !important;
+    }
+    .product .offer-product{
+        margin-left: 1rem;
+    }
+    .product .offer-product .price-offer{
+        height: 120px !important;
+        width: 120px !important;  
+    }  
+    .product .offer-product .price-offer h3{
+        margin-top: 2rem !important;
+        font-size: 1.2rem !important;
+    }
+    .product .offer-product .price-offer h4 {
+        font-size: 1.2rem !important;
+    }
+    .product .offer-product .promo-offer h1{
+        font-size: 3rem !important;  
+    }
+    .product .offer-product .promo-offer h3{
+        font-size: 1.5rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+    .product .offer-product .promo-offer h5{
+        font-size: 1.2rem !important;
+        margin-bottom: 0.5rem !important; 
+    }
+    .product .offer-product .promo-offer p{
+        margin-bottom: 1rem;
+    }
+    .product .offer-product .promo-offer .count-down .btn5{
+        width: 50px !important;
+        height: 50px !important;
+        font-size: 1.2rem !important;  
+    }
+    .product-copy-2 .brand .varity-brand{
+        grid-template-columns: repeat(3,1fr) !important;
+        grid-gap: 1rem;  
+    }
+    .information{
+        height: 450px !important;
+    }
+    .information .card-warpper{
+        grid-template-columns: repeat(2,1fr) !important;
+    }
+    .payment-share{
+        height: 100px !important;
+    }
+    .payment-share .payment-follow{
+        display: block !important;
+    }
+    .payment-share .payment-follow .follow{
+        margin-top: 0.7rem !important;
+        margin-left: 0.8rem !important;
+    }
+}
+ @meia screen and (max-width: 540px){
+    header{
+        height: 80px !important;
+    }
+    .top-nav{
+        display: block !important;
+    }
+    .top-nav .my-menu ul li{
+        margin-left: 1rem !important;
+    }
+    .top-nav .my-menu ul li a{
+        font-size: 0.9rem !important;   
+    }
+    .top-nav .btn{
+        margin-top: 1rem !important;
+        margin-left: -4rem !important;
+    }
+    .logo{
+        height: 100px !important;
+    }
+    .logo .logo-property{
+        display: block !important;
+       margin-top: 0.5rem !important;
+    }
+    .menu{
+        height: 220px !important;
+    }
+    .menu .item ul li{
+        display: block !important;
+    }
+    .menu .item ul li input{
+        margin-top: 1rem !important;
+    }
+    .site{
+        height: 200px !important;
+    }
+    .site .info{
+        grid-template-columns: repeat(2,1fr) !important;
+        grid-gap: 1rem !important;
+    }
+    .product .offer-product .price-offer{
+        left: 20% !important;
+        height: 100px !important;
+        width: 100px !important;
+    }
+    .product .offer-product .promo-offer h1{
+        font-size: 2rem !important;
+    }
+    .product .offer-product .promo-offer h3{
+        font-size: 1rem !important;
+    }
+    .product .offer-product .promo-offer p{
+        font-size: 0.8rem !important;
+    }
+    .product .offer-product .promo-offer .count-down .btn5{
+        width: 46px !important;
+        height: 46px !important;
+    }
+    .product .offer-product .promo-offer .count-down .btn5 span{
+        font-size: 0.6rem !important;
+    }
+    .subscribe .property h2{
+        font-size: 1.5rem !important;
+    }
+    .subscribe .property p{
+        font-size: 0.8rem !important;
+    }
+    .subscribe .property .submit-btn{
+        margin-top: 1rem !important;
+    }
+}
+/* @@@@@@@@@@@@@ single page @@@@@@@@@@@@@@ */
+@media screen and (max-width: 992px){
+    .section3 .product{
+        margin-top: 1rem !important;
+    }
+    .section3 .product{
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+    .section3 .product .product-details-left .image-product-title .product-title-right .buy-system button{
+       padding: 0.7rem 2rem !important
+    } 
+
+}    
+@media screen and (max-width: 786px){
+    .section3 .product .product-details-left .image-product-title .image-left img{
+      width: 220px !important;
+    }
+    .section3 .product .product-details-left .image-product-title .product-title-right .buy-system button{
+        padding: 0.2rem 0.5rem !important;
+        font-size: 0.9rem !important;
+    }
+    .section3 .product .product-details-left .last-review .review-name{
+        margin-top: 1rem !important;
+        margin-bottom: 2rem !important;
+    }
+    .section3 .product .product-details-left .last-review .review-parameter{
+        margin-left: 2.2rem !important;
+    }
+    .section3 .product .product-details-left .last-review .last-para{
+        margin-bottom: 2rem !important;
+    }
+} 
+@media screen and (max-width: 540px){
+    .section3{
+        height: 1600px !important;
+    }
+    .section3 .product .product-details-left .image-product-title .image-left{
+        margin-bottom: 0.7rem !important;
+    }
+    .section3 .product{
+        margin-top: 0rem !important;
+    }
+    .section3 .product .product-details-left .image-product-title{
+        display: block !important;
+    }
+    .section3 .product .product-details-left .menu-item{
+        margin-top: 1rem !important;
+    }
+    .section3 .product .product-details-left .menu-item ul li{
+        margin-left: 0.5rem !important;
+    }
+    .section3 .product .product-details-left .menu-item ul li a{
+        font-size: 0.9rem !important; 
+    }
+    .section3 .product .product-details-left .last-review .review-name{
+        display: block !important;
+        margin-bottom: 1rem !important;
+    }
+    .section3 .product .product-details-left .last-review .review-name h4 span{
+        font-size: 0.7rem !important;
+        margin-left: 0.3rem !important;
+    } 
+    .section3 .product .product-details-left .last-review .review-parameter .star i{
+       font-size: 0.8rem !important;
+    }
+    .section3 .product .product-details-left .last-review .review-parameter{
+        margin-left: 0rem !important;
+    }
+}
+/* @@@@@@@@@ contact page @@@@@@@@@ */
+@media screen and (max-width: 992px){
+    .contact-page .contact{
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+}    
+@media screen and (max-width: 786px){
+    .top-nav .btn{
+        padding-right: 0.5rem !important;
+    }
+    .top-nav .my-menu ul li{
+        margin-left: 0rem !important ;
+    }
+    .top-nav .my-menu ul li a{
+        font-size: 0.7rem !important;
+    }
+    .top-nav .btn .lang-btn{
+        padding: 0.5rem 0.4rem !important;
+       
+    } 
+    .top-nav .btn .currency-btn{
+        padding: 0.5rem 0.4rem !important;
+    }
+    .top-nav .btn .currency-btn{
+        margin-left: 0rem !important;
+    }
+    .logo{
+        padding-left: 1rem !important;
+    }
+    .logo .logo-property  .account-cart{
+        margin-left: 0rem !important;
+    }
+    .menu .item ul li{
+        margin-left: 1rem !important;
+    }
+    .menu .item ul li input{
+        width: 7.4rem !important;
+    }
+     .site-info{
+         grid-gap: 1rem !important;
+         margin-left: 0.5rem !important;
+         margin-right: 0.5rem !important;   
+     }
+     .site .info .text-box{
+         padding: 0.4rem !important;
+     }
+     .brand-section .brand .varity-brand{
+         grid-template-columns: repeat(3,1fr) !important; 
+     }
+     .contact-page .contact .contact-details-left .form textarea{
+         width: 30rem !important;
+     }        
+}    
+@media screen and (max-width: 540px){
+    .contact-page .contact .contact-details-left .form textarea{
+        width: 22rem !important;
+    }   
+}
+
+/* @@@@@@@@@@ grid page @@@@@@@@@@@@@ */
+@media screen and (max-width: 786px){
+    .grid-page{
+        height: 2200px !important;
+    }
+    .grid-page .grid .grid-details-left .banner-img img{
+        width: 31.7rem !important;
+    }
+    .grid .image-warpper {
+        grid-template-columns: repeat(2,1fr) !important;
+    }
+    .grid-page .grid .grid-details-right{
+        padding-right: 1rem !important;
+    }
+    .grid-page .grid .grid-details-right .banner-heading{
+        padding-right: 1rem !important;
+    }
+    .grid-page .grid .grid-details-right .banner-heading .heading1{
+        padding: 6rem 1rem !important;
+        width: 180px !important; 
+    }
+    .grid-page .grid .grid-details-right .banner-heading .heading2{
+        padding:  2rem 1rem !important;
+        width: 180px !important; 
+    }
+}
+@media screen and (max-width: 540px){
+    .grid-page{
+        height: 4100px !important;
+    }
+    .grid-page .grid .grid-details-left .banner-img img{
+        width: 20rem !important;
+    }
+    .grid .image-warpper {
+        grid-template-columns: repeat(1,1fr) !important;
+    }
+    .grid-page .grid .grid-details-left{
+        width: 60% !important;
+    }
+    .grid-page .grid .grid-details-right{
+        width: 35% !important;   
+    }
+}
+/* @@@@@@@@@@@@@ checkout page @@@@@@@@@@@@@@ */
+@media screen and (max-width: 992px){
+    .checkout{
+        padding: 1rem !important;
+    }
+}
+@media screen and (max-width: 786px){
+    .site-info{
+        grid-gap: 1rem !important;
+        margin-left: 0.5rem !important;
+        margin-right: 0.5rem !important;   
+    }
+    .site .info .text-box{
+        padding: 0.4rem !important;
+    }
+}
+@media screen and (max-width: 540px){
+    .form{
+        display: block !important;
+        /* z-index: 5 !important; */
+    }
+    .checkout-page{
+        height: 1020px !important;
+    }
+    .checkout-page .checkout .checkout-details-left .step{
+        height: 620px !important;
+    }
+    .checkout-page .checkout .checkout-details-left .step h4{
+        margin-bottom: 0rem !important;
+    }
+    .checkout-page .checkout .checkout-details-left .step .form-left{
+        flex: none !important;
+    }
+    .checkout-page .checkout .checkout-details-left .step .form-right{
+        flex: none !important;
+        margin-left: 0rem !important;
+     }
+     .checkout-page .checkout .checkout-details-left .step .form-left button{
+         margin-bottom: 1rem !important;
+     }
+}
